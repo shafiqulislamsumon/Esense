@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">eSenseLog</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="connected">Connected</string>
+</resources>
